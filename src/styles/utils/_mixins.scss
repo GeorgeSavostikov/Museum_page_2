@@ -1,0 +1,19 @@
+@mixin scales {
+  transition: transform 0.3s;
+  
+  &:hover {
+    transform: scale(0.9);
+  }
+}
+
+@mixin onTablet {
+  @media (min-width: 640px) {
+    @content;
+  }
+}
+
+@mixin onDesktop {
+  @media (min-width: 1280px) {
+    @content;
+  }
+}
