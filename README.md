@@ -1,4 +1,4 @@
-# MET landing page
+# Museum landing page
 Landing page for an art museum. You can view the page at the link - [DEMO](https://georgesavostikov.github.io/Museum_page_2/)
 # Technologies used
 * HTML5
