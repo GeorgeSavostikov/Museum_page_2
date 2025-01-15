@@ -1,4 +1,11 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# MET landing page
+Landing page for an art museum. You can view the page at the link - [DEMO](https://georgesavostikov.github.io/Museum_page_2/)
+# Technologies used
+* HTML5
+* CSS3
+* Sass(SCSS)
+* BEM methodology
+# Features
+The layout is adaptive, responsive, and cross-browser compatible. It works correctly on all screen sizes (mobile, tablet, and desktop versions) and is implemented using the mobile-first approach.
+# Reflections
+This project was implemented to improve my skills in HTML5, CSS3, Sass (SCSS). During work, I used responsive design principles, the BEM methodology, and modern interface-building techniques.
